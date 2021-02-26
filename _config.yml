@@ -41,7 +41,7 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://2o1da.github.io-test
+url:         http://2o1da.github.io3
 source:      .
 destination: ./_site
 plugins:     ./_plugins
@@ -71,7 +71,7 @@ excerpt_separator: "<!-- more -->"
 safe:        false
 host:        0.0.0.0
 port:        4000
-baseurl:     /test
+baseurl:     /
 lsi:         false
 
 maruku:
