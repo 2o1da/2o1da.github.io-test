@@ -41,7 +41,7 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://2o1da.github.io3
+url:         http://2o1da.github.io
 source:      .
 destination: ./_site
 plugins:     ./_plugins
